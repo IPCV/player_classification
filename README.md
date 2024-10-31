@@ -87,7 +87,7 @@ python main.py -c config/cnn.json -a cnn -m data/test_v2.csv
 
 ## Citation
 
-If you use this code, please cite the following paper:
+The paper is freely available [here](https://dl.acm.org/doi/pdf/10.1145/3689061.3689072). If you use this code, please cite the following paper:
 
 Alejandro Cartas, Coloma Ballester, and Gloria Haro. "Two Weakly Supervised Approaches for Role Classification of Soccer Players" ACM MMSports Workshop (2024).
 
